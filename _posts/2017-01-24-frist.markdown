@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      "My friend about web"
 subtitle:   " \"About web\""
