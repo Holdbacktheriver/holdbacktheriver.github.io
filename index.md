@@ -1,38 +1,16 @@
 ## 欢迎来的lee的博客
-You can use the [editor on GitHub](https://github.com/Holdbacktheriver/lee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是一个测试
 
-### Markdown
+### 关于自己
+PHP是世界最好的语言！！！！！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 爱好
+以前没得选，现在我只想写代码！
 
-```markdown
-Syntax highlighted code block
+### [好友公司传送门--木帆网络](http://www.mfidea.cn/about/)
+有经验、有态度、有心意，我们是武汉木帆网络技术。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Holdbacktheriver/lee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### 2017年
+我们是武汉优质软件产品服务提供者，我们注重专业探索，摒弃虚浮夸张，致力于为企业提供优质网络品牌方案，实现互联网价值最大化。
+我们自成立以来以为多家企业提供高品质的服务，我们注重原创和创意，从PC端到移动终端，从产品设计到产品开发测试上线，都积累了丰富的经验，助企业打造极具价值的网络品牌！
+我们拥有优质、技术成熟、服务热情的技术团队及售后服务团队，让您一次抉择后顾无忧，让您所在的企业和个人都满意。
