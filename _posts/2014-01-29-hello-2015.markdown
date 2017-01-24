@@ -3,7 +3,7 @@ layout:     post
 title:      "Welcome to Lee"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2015-01-29 12:00:00
-author:     "Hux"
+author:     "Lee"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 生活
@@ -39,7 +39,7 @@ Lee 的 Blog 就这么开通了。
 * Jekyll 的自定制非常容易，基本就是个模版引擎
 
 
-这个blog借鉴阿里巴巴前端大神锅炉大帅哥的,[传送门](http://huangxuan.me/),后期自己做些修改,喜滋滋，祝大家2017年新年快乐！
+此blog借鉴[阿里巴巴前端大神锅炉大帅哥传送门](http://huangxuan.me/),后期自己做些修改,喜滋滋，祝大家2017年新年快乐！
 
 
 
