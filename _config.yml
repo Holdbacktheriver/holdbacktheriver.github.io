@@ -12,9 +12,9 @@ baseurl: "/holdbacktheriver.github.io"         # for example, '/blog' if your bl
 
 # SNS settings
 RSS: false
-weibo_username:     xxxx
-zhihu_username:     xxxx
-github_username:    xxxx
+weibo_username:     1eechao
+zhihu_username:     ch lee
+github_username:    Holdbacktheriver
 #twitter_username:  xxxx
 facebook_username:  xxxx
 
